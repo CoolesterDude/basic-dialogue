@@ -12,7 +12,7 @@ public class Main {
                 "Maithu: Sir the Kingdom is under attack.",
                 "Flik: We must not yet attack. Our troops are severely disorganized.",
                 "Flik: Ready any remaining manpower on defensive.",
-                "Tir: 1. Okay let's do this \nTir: 2. Not just yet.."
+                "Tir: 1. Okay let's do this \nTir: 2. Not just yet.."  //I realized the string array can go in braces with commas seperating each line.
         };
 
         for (int i = 0; i < dialogue.length - 1; i++) {
